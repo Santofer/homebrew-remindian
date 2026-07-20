@@ -1,8 +1,8 @@
 cask "remindian" do
-  version "5.5.0"
-  sha256 "cc32eea706d25a79f0f8d83c2bc0d468c20bff71f7954a2e823e261fd63e7cc9"
+  version "5.25.13"
+  sha256 "3a3fbdf98fb3ce812a2cfc97c837c77e438dc74fa2fcdeef7e58f6a53d0fd724"
 
-  url "https://github.com/Santofer/Remindian/releases/download/v#{version}/Remindian-v#{version}.dmg"
+  url "https://github.com/Santofer/Remindian/releases/download/v#{version}/Remindian-#{version}.dmg"
   name "Remindian"
   desc "Sync Obsidian tasks with Apple Reminders, Todoist, Asana, Linear, and more"
   homepage "https://github.com/Santofer/Remindian"
